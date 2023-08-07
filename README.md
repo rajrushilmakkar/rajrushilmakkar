@@ -7,7 +7,7 @@ App Developer
 I am a full-stack developer. I primarily work with Flutter and Golang at my current job. Over the years, I have done some React projects, OpenCV projects with python, a few NLP projects but my main field of work has been mobile and web app development upto now.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [rushilmakkar@gmail.com](mailto:rushilmakkar@gmail.com)
+* ✉️  You can contact me at [rushil@devrush.tech](mailto:rushil@devrush.tech)
 * 🚀  I'm currently developing [EzStickerbook](https://ezstickerbook.com/)
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on Flutter Projects
