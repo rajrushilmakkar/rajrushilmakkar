@@ -8,7 +8,7 @@ I am a full-stack developer. I primarily work with Flutter and Golang at my curr
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rushil@devrush.tech](mailto:rushil@devrush.tech)
-* 🚀  I'm currently developing [EzStickerbook](https://ezstickerbook.com/)
+* 🚀  I'm currently developing [Teachally](https://teachally.com/)
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on Flutter Projects
 
