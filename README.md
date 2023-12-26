@@ -4,7 +4,7 @@ Hi 👋 My name is Rushil Makkar
 App Developer
 -------------
 
-I am a full-stack developer. I primarily work with Flutter and Golang at my current job. Over the years, I have done some React projects, OpenCV projects with python, a few NLP projects but my main field of work has been mobile and web app development upto now.
+I am a full-stack developer. I primarily work with Flutter and Golang at my current job with extensive use of different LLMs. Over the years, I have done some React projects, OpenCV projects with python, a few NLP projects but my main field of work has been mobile and web app development upto now.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rushil@devrush.tech](mailto:rushil@devrush.tech)
