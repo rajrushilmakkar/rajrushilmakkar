@@ -36,4 +36,4 @@ src="https://img.shields.io/github/followers/rajrushilmakkar?logo=github&style=f
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/rushil](https://paypal.me/devrushinfotech?country.x=IN&locale.x=en_GB"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://paypal.me/devrushinfotech?country.x=IN&locale.x=en_GB"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
