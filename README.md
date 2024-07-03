@@ -36,5 +36,5 @@ src="https://img.shields.io/github/followers/rajrushilmakkar?logo=github&style=f
 
 ### Support Me
 
-<a href="[https://paypal.me/devrushinfotech?country.x=IN&locale.x=en_GB](https://www.paypal.com/ncp/payment/6E258KRL9M5VN)"><img src="![image](https://github.com/rajrushilmakkar/rajrushilmakkar/assets/56961633/c3418106-7e49-4765-8948-ed5889862821)
+<a href="https://www.paypal.com/ncp/payment/6E258KRL9M5VN"><img src="![image](https://github.com/rajrushilmakkar/rajrushilmakkar/assets/56961633/c3418106-7e49-4765-8948-ed5889862821)
 " width="200" /></a>
